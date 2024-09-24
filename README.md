@@ -7,7 +7,7 @@
 | :-------- | :-------- | :------- |
 | | | |
 **提示词工程简介**
-|<ul><li>Introduction</li></ul>|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/2-Introduction-zh.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/2-Introduction-zh.ipynb)|
+|<ul><li>Introduction</li></ul>|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/1-Introduction-zh.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/1-Introduction-zh.ipynb)|
 **迭代式提示词开发**
 |<ul><li>Prompting</li></ul>|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/2-Prompting-zh.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/2-Prompting-zh.ipynb)|
 **产品评论分析师**
