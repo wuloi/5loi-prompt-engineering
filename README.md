@@ -1,6 +1,4 @@
-![DLI Header](Prompt_Engineering/images/DLI_Header.png)
-
-### [AI COMMUNITY](https://www.theforage.cn/community)
+### [AIPM 🌿 COMMUNITY](https://www.theforage.cn/community)
 
 直接从下表运行笔记本：
 | 主题 | Colab | Kaggle |
@@ -24,6 +22,6 @@
 |<ul><li>Conclusion</li></ul>|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/8-Conclusion.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/8-Conclusion.ipynb)|
 
 
-### [5LOI](https://5loi.com/about_loi)
+### [与我联系 5LOI](https://5loi.com/about_loi)
 
 ![DLI Header](Prompt_Engineering/images/DLI_Header.png)
