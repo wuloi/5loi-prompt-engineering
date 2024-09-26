@@ -1,6 +1,8 @@
 ## 全面掌握「提示词工程 Prompt Engineering」
 
-### [AIPM 🌿 COMMUNITY](https://www.theforage.cn/community)
+<center><a href="https://5loi.com/about_loi"> <img src="Diffusion_Models/images/DLI_Header.png" alt="Header" style="width: 400px;"/> </a></center>
+
+### [AIPM 🌿 COMMUNITY 人工智能产品管理](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
 
 直接从下表运行笔记本：
 | 主题 | Colab | Kaggle |
@@ -23,7 +25,7 @@
 **总结**
 |<ul><li>Conclusion</li></ul>|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/8-Conclusion.ipynb)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/wuloi/5loi-prompt-engineering/blob/zh/Prompt_Engineering/zh/8-Conclusion.ipynb)|
 
-
-### [与我联系 5LOI](https://5loi.com/about_loi)
+#### [加入社区 🌿 AIPM](https://www.theforage.cn/community)
+#### [与我联系 🐬 5LOI](https://5loi.com/about_loi)
 
 ![DLI Header](Prompt_Engineering/images/DLI_Header.png)
